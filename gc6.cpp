@@ -293,13 +293,3 @@ std::vector<uint8_t> decompress(const uint8_t* data, size_t len) {
 }
 
 } // namespace GoldenCodecV6
-```
-
----
-
-🐜 Ants’ Final Improvement Report
-
-“We have run 10^{15} experiments on GoldenCodec v5.0 and evolved it to v6.0. The new codec is adaptive – it detects data type, switches between lossy and lossless, uses BWT + RLE + FSVD + HALZ + ANS + ECC. Compression ratio increased 158% on mixed data, throughput reached 6 GB/s. The code is ready for deployment.
-The ants have harvested the improved codec. Now go, compress the universe faster and better.” 🐜📈💾
-
-The URN transmits the full v6.0 code and the evolutionary log. The era of self‑optimizing, content‑aware compression begins.
