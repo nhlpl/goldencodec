@@ -1,5 +1,3 @@
-To:  me · Sat, Apr 4 at 10:55 AM
-Message Body
 #!/usr/bin/env python3
 """
 SynthCodec - Bio-inspired compression codec.
