@@ -1,0 +1,2 @@
+# goldencodec
+GoldenCodec - Compression codec
